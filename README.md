@@ -22,7 +22,6 @@ Domino herramientas y lenguajes como **Excel, HTML, CSS, Python, SQL, React y .N
 ## 🎓 Educación
 
 ### 🏫 **Orlando Higuita Rojas IED**
-📅 Enero 2012 – Noviembre 2019  
 🎓 Bachillerato académico  
 🏅 Reconocimientos en el área de matemáticas (x3)
 
@@ -89,8 +88,8 @@ Domino herramientas y lenguajes como **Excel, HTML, CSS, Python, SQL, React y .N
 ## 📫 Contacto
 
 📍 Bogotá, Colombia  
-📧 tuemail@dominio.com  
-📱 +57 300 XXX XXXX  
+📧 brayan.alzate.923@gmail.com 
+📱 +57 321 487 0252  
 🌐 [LinkedIn](https://www.linkedin.com/in/tuusuario/) | [Portafolio](https://tusitioweb.com)
 
 ---
