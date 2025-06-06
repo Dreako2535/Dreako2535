@@ -1,6 +1,6 @@
 <!-- Encabezado estilizado con imagen -->
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Banner Personal" width="100%" />
+  <img src="https://github.com/Dreako2535/Dreako2535/blob/main/BANNER.png" alt="Banner Personal" width="100%" />
 </p>
 
 <h1 align="center">¡Hola! Soy Brayan Arbeláez 👋</h1>
