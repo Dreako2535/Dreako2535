@@ -90,7 +90,7 @@ Domino herramientas y lenguajes como **Excel, HTML, CSS, Python, SQL, React y .N
 📍 Bogotá, Colombia  
 📧 brayan.alzate.923@gmail.com  
 📱 +57 321 487 0252  
-🌐 [LinkedIn](https://www.linkedin.com/in/tuusuario/) | [Portafolio](https://tusitioweb.com)
+🌐 [LinkedIn](www.linkedin.com/in/brayan-arbelaez-alzate-72b39b36a) | [Portafolio](https://tusitioweb.com)
 
 ---
 
