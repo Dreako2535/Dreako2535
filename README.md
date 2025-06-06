@@ -56,7 +56,7 @@ Domino herramientas y lenguajes como **Excel, HTML, CSS, Python, SQL, React y .N
 
 | Adaptabilidad | Comunicación | Aprendizaje continuo | Trabajo en equipo |
 |:-------------:|:------------:|:--------------------:|:-----------------:|
-| Creatividad   | Responsabilidad | Pensamiento crítico | Liderazgo (en proceso) |
+| Creatividad   | Responsabilidad | Pensamiento crítico | Liderazgo  |
 
 ---
 
@@ -75,7 +75,7 @@ Domino herramientas y lenguajes como **Excel, HTML, CSS, Python, SQL, React y .N
 
 ---
 
-## 🎨 Galería (Opcional)
+## 🎨 Galería 
 
 <p align="center">
   <img src="https://your-image-url.com/portfolio1.png" width="250" />
