@@ -95,7 +95,9 @@ Domino herramientas y lenguajes como **Excel, HTML, CSS, Python, SQL, React y .N
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Gracias+por+visitar+mi+perfil+💻;Siempre+aprendiendo+y+creciendo+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Gracias+por+visitar+mi+perfil+💻;Siempre+aprendiendo+y+creciendo+🚀" alt="Typing SVG" />
 </p>
+
+
 
 
