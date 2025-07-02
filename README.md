@@ -13,17 +13,12 @@
 
 ## 📌 Perfil Profesional
 
-Soy una persona responsable, puntual y con una gran capacidad de adaptación a distintos entornos laborales. Me destaco por mi comunicación efectiva y por fomentar el trabajo en equipo como pilar fundamental para alcanzar objetivos.
+Tecnólogo en Análisis y Desarrollo de Software egresado del SENA, con sólida formación en desarrollo web, bases de datos y backend. Complementé mi aprendizaje técnico con estudios en Python para ciencia de datos (IBM Cognitive Class). Con 6 meses de experiencia diseño de procedimientos almacenados, consultas SQL optimizadas y gestión de estructuras de bases de datos.Domino tecnologías clave como HTML, CSS, JavaScript, React, Node.js, SQL, Python, Git y React Native, además de herramientas como Excel y metodologías ágiles para control de proyectos
 
-Domino herramientas y lenguajes como **Excel, HTML, CSS, Python, SQL, React y .NET**, aplicándolos de manera creativa en la solución de problemas y desarrollo de proyectos. Me defino como alguien organizado, proactivo y comprometido, incluso en situaciones bajo presión. Siempre doy lo mejor de mí, promoviendo un entorno laboral colaborativo y positivo.
 
 ---
 
 ## 🎓 Educación
-
-### 🏫 **Orlando Higuita Rojas IED**
-🎓 Bachillerato académico  
-🏅 Reconocimientos en el área de matemáticas (x3)
 
 ### 🎓 **SENA - CENIGRAF**
 📚 Tecnólogo en Análisis y Desarrollo de Software  
@@ -40,23 +35,12 @@ Domino herramientas y lenguajes como **Excel, HTML, CSS, Python, SQL, React y .N
 
 ## 💼 Experiencia Laboral
 
-### 🔧 **Auxiliar de Inventario** – *CONSORCIO BELLITEL*  
-📅 Nov 02/2022 – Dic 22/2022  
-🧾 Gestión de inventarios, finalización por término de proyecto.
-
 ### 🖥️ **Aprendiz Tecnólogo** – *RGC Activa S.A.S (SENA)*  
 📅 Oct 24/2024 – Abr 22/2025  
 🔹 Manejo de SQL Server: SPs, scripts, consultas, tablas, conexiones  
 🔹 Aprendizaje del sistema interno de la empresa  
 🔹 Solución de problemas técnicos y atención al cliente
 
----
-
-## 💡 Habilidades Blandas
-
-| Adaptabilidad | Comunicación | Aprendizaje continuo | Trabajo en equipo |
-|:-------------:|:------------:|:--------------------:|:-----------------:|
-| Creatividad   | Responsabilidad | Pensamiento crítico | Liderazgo  |
 
 ---
 
